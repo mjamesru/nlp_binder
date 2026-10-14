@@ -10,4 +10,5 @@ nltk
 spacy
 gensim
 sklearn-crfsuite
+setuptools-scm<8
 seqeval==1.2.2
