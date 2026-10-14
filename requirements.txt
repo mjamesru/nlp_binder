@@ -1,5 +1,4 @@
-setuptools<70.0.0
-wheel
+setuptools-scm
 numpy
 pandas
 scipy
@@ -11,5 +10,4 @@ keras>=2.12.0
 nltk
 spacy
 gensim
-sklearn-crfsuite
-seqeval
+git+https://github.com/chakki-works/seqenv.git
