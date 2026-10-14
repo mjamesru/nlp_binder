@@ -10,4 +10,4 @@ nltk
 spacy
 gensim
 sklearn-crfsuite
-seqeval
+seqeval==1.2.2
