@@ -9,5 +9,4 @@ keras>=2.12.0
 nltk
 spacy
 gensim
-sklearn-crfsuite
 seqeval
